@@ -1,1 +1,1 @@
-[{"status": "live", "league": "AFC U-19 Championship.", "link1": "", "link3": "", "link2": "", "away": "  Laos U-19", "time": "12:00 ng\u00e0y 08-11", "home": "Vietnam U-19  "}, {"status": "wait", "league": "Friendly Match.", "link1": "", "link3": "", "link2": "", "away": "  Czech Republic", "time": "21:45 ng\u00e0y 08-11", "home": "Iceland  "}]
+[{"status": "wait", "league": "Friendly Match.", "link1": "", "link3": "", "link2": "", "away": "  Czech Republic", "time": "21:45 ng\u00e0y 08-11", "home": "Iceland  "}]
